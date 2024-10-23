@@ -1,13 +1,1 @@
-# Responsive Landing Page Headphones 🎧
-## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
-### Responsive Landing Page Headphones 🎧
-
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-- Dark interface.
-- With animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![](/preview.png)
+![Captura de tela 2024-10-23 140840](https://github.com/user-attachments/assets/e08c1990-2485-47a6-8a5c-6da42123a708)
